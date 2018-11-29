@@ -6,10 +6,8 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [connect to store](https://github.com/sarabahrini/lab-31.git)
+* [create a new reducer](https://codesandbox.io/s/23xzmwjrjj)
 
 ### Modules
 #### `modulename.js`
