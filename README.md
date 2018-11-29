@@ -1,37 +1,8 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
-
-## Project Name
-
-### Author: Student/Group Name
+## Application State
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* [App State Part 1 Sandbox](https://codesandbox.io/s/oj4mjrln8q)
+* [App State Part 2 Sandbox](https://codesandbox.io/s/4rky54r76w)
 
 #### Tests
 * How do you run tests?
@@ -39,4 +10,5 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+![App State Part 1 UML](./assets/app-state-part-1.jpg)
+![App State Part 2 UML](./assets/app-state-part-2.jpg)
