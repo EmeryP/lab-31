@@ -5,9 +5,7 @@
 * [App State Part 2 Sandbox](https://codesandbox.io/s/4rky54r76w)
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* Was unable to get tests running properly
 
 #### UML
 ![App State Part 1 UML](./assets/app-state-part-1.jpg)
