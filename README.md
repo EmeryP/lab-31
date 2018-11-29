@@ -10,4 +10,5 @@
 * What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+![App State Part 1 UML](./assets/app-state-part-1.jpg)
+![App State Part 2 UML](./assets/app-state-part-2.jpg)
